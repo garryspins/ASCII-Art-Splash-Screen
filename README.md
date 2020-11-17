@@ -2,7 +2,8 @@
 # Fish ASCII Art Splash Screen
 THIS ONLY WORKS WITH THE FISH SHELL!
 
-Automatically presents ASCII art when you open a new Fish instance
+Automatically presents ASCII art when you open a new Fish instance.<br>
+The reason this exists is because... why run python when you can just run a shell script?
 
 
 
