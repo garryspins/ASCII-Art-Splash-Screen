@@ -16,5 +16,5 @@ Just copy paste ascii_fish.fish into your config.fish and boom itll load
 
 Make a pull request, ill probably approve it unless its retarded. Make sure to add a number to the max in the fish file.
 
-Created by Dan Richards 2017. <br>
+Originally created by Dan Richards 2017. <br>
 Ported to Fish Orion 2020.
