@@ -1,4 +1,4 @@
-![Example Photo](example.png)
+![Example Photo](example2.png)
 # Fish ASCII Art Splash Screen
 THIS ONLY WORKS WITH THE FISH SHELL!
 
